@@ -7,6 +7,7 @@ call neobundle#begin(expand('/Users/adate/.vim/bundle'))
 
 NeoBundleFetch 'Shougo/neobundle.vim'
 
+NeoBundle 'Shougo/unite.vim'
 NeoBundle 'Shougo/neosnippet.vim'
 NeoBundle 'Shougo/neosnippet-snippets'
 NeoBundle 'tpope/vim-fugitive'
